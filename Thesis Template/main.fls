@@ -1,8 +1,8 @@
-PWD /Users/mike/Desktop/Thesis_LDR/templates 2
+PWD /Users/mike/Desktop/Thesis_LDR/Thesis Template
 INPUT /usr/local/texlive/2022/texmf.cnf
 INPUT /usr/local/texlive/2022/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/mike/Desktop/Thesis_LDR/templates 2/main.tex
+INPUT /Users/mike/Desktop/Thesis_LDR/Thesis Template/main.tex
 OUTPUT main.log
 INPUT ./mitthesis.cls
 INPUT ./mitthesis.cls
