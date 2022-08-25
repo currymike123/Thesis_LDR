@@ -1,0 +1,4 @@
+\beamer@sectionintoc {1}{Data Augmentation}{3}{0}{1}
+\beamer@sectionintoc {2}{High-Dynamic-Range (HDR) Images}{6}{0}{2}
+\beamer@sectionintoc {3}{Low-Dynamic-Range (LDR) Images}{9}{0}{3}
+\beamer@sectionintoc {4}{HDR Image Construction from a LDR Dataset}{15}{0}{4}
