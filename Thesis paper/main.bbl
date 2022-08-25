@@ -1,0 +1,19 @@
+\begin{thebibliography}{2}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Knuth(1986)]{Knuth86}
+Donald~E. Knuth.
+\newblock \emph{The \TeX book}.
+\newblock Computers \& Typesetting. Addison-Wesley Publishing Company, Reading,
+  Massachusetts, 1986.
+
+\bibitem[Lamport(1986)]{Lamport86}
+Leslie Lamport.
+\newblock \emph{\LaTeX: A Document Preparation System}.
+\newblock Addison-Wesley Publishing Company, Reading, Massachusetts, 1986.
+
+\end{thebibliography}
