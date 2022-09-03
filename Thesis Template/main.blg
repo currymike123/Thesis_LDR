@@ -9,45 +9,227 @@ A level-1 auxiliary file: appa.aux
 A level-1 auxiliary file: appb.aux
 A level-1 auxiliary file: biblio.aux
 The style file: plain.bst
+I found no \citation commands---while reading file main.aux
 Database file #1: main.bib
-You've used 4 entries,
+You're missing a field name---line 21 of file main.bib
+ : 
+ : %    author = {L[eslie] A. Aamport},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 28 of file main.bib
+ : 
+ : %    author = {L[eslie] A. Aamport},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 44 of file main.bib
+ : 
+ : %    crossref = {WHOLE-JOURNAL},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 53 of file main.bib
+ : 
+ : %    key = "GAJ",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 64 of file main.bib
+ : 
+ : %    author = "Donald E. Wtf Knuth",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 72 of file main.bib
+ : 
+ : %    author = "Donald E. Knuth",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 88 of file main.bib
+ : 
+ : %    crossref = "whole-set",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 100 of file main.bib
+ : 
+ : %    author = "Donald E. Knuth",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 107 of file main.bib
+ : 
+ : %    author = "Donald E. Knuth",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 120 of file main.bib
+ : 
+ : %    crossref = "whole-set",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 130 of file main.bib
+ : 
+ : %    author = "Donald E. Knuth",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 139 of file main.bib
+ : 
+ : %    key = "Kn{\printfirst{v}{1987}}",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 144 of file main.bib
+ : 
+ : %    author = "Jill C. Knvth",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 154 of file main.bib
+ : 
+ : %    author = "Daniel D. Lincoll",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 162 of file main.bib
+ : 
+ : %    author = "Daniel D. Lincoll",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 180 of file main.bib
+ : 
+ : %    crossref = "whole-collection",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 188 of file main.bib
+ : 
+ : %    editor = "David J. Lipcoll and D. H. Lawrie and A. H. Sameh",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 202 of file main.bib
+ : 
+ : %    key = "Manmaker",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 207 of file main.bib
+ : 
+ : %    author = "Larry Manmaker",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 218 of file main.bib
+ : 
+ : %    author = "{\'{E}}douard Masterly",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 225 of file main.bib
+ : 
+ : %    author = "{\'{E}}douard Masterly",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 236 of file main.bib
+ : 
+ : %    key = "Missilany",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 241 of file main.bib
+ : 
+ : %    author = "Joe-Bob Missilany",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 256 of file main.bib
+ : 
+ : %    author = "Alfred V. Oaho and Jeffrey D. Ullman and Mihalis Yannakakis",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 263 of file main.bib
+ : 
+ : %    author = "Alfred V. Oaho and Jeffrey D. Ullman and Mihalis Yannakakis",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 279 of file main.bib
+ : 
+ : %    crossref = "whole-proceedings",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 288 of file main.bib
+ : 
+ : %    key = STOC-key,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 294 of file main.bib
+ : 
+ : %    editor = "Wizard V. Oz and Mihalis Yannakakis",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 307 of file main.bib
+ : 
+ : %    key = STOC-key,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 317 of file main.bib
+ : 
+ : %    author = "F. Phidias Phony-Baloney",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 324 of file main.bib
+ : 
+ : %    author = "F. Phidias Phony-Baloney",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 335 of file main.bib
+ : 
+ : %    author = "Tom Terrific",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 342 of file main.bib
+ : 
+ : %    author = "Tom T{\'{e}}rrific",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 354 of file main.bib
+ : 
+ : %    author = "Ulrich {\"{U}}nderwood and Ned {\~N}et and Paul {\={P}}ot",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 360 of file main.bib
+ : 
+ : %    author = "Ulrich {\"{U}}nderwood and Ned {\~N}et and Paul {\={P}}ot",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 368 of file main.bib
+ : 
+ : %    key = {Volume-2},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You've used 0 entries,
             2118 wiz_defined-function locations,
-            543 strings with 4995 characters,
-and the built_in function-call counts, 895 in all, are:
-= -- 86
-> -- 22
-< -- 1
-+ -- 11
-- -- 6
-* -- 57
-:= -- 157
-add.period$ -- 13
-call.type$ -- 4
-change.case$ -- 15
+            510 strings with 4291 characters,
+and the built_in function-call counts, 20 in all, are:
+= -- 0
+> -- 0
+< -- 0
++ -- 0
+- -- 0
+* -- 2
+:= -- 7
+add.period$ -- 0
+call.type$ -- 0
+change.case$ -- 0
 chr.to.int$ -- 0
-cite$ -- 4
-duplicate$ -- 44
-empty$ -- 84
-format.name$ -- 6
-if$ -- 184
+cite$ -- 0
+duplicate$ -- 0
+empty$ -- 1
+format.name$ -- 0
+if$ -- 1
 int.to.chr$ -- 0
-int.to.str$ -- 4
-missing$ -- 3
-newline$ -- 25
-num.names$ -- 6
-pop$ -- 14
+int.to.str$ -- 0
+missing$ -- 0
+newline$ -- 4
+num.names$ -- 0
+pop$ -- 0
 preamble$ -- 2
-purify$ -- 12
+purify$ -- 0
 quote$ -- 0
-skip$ -- 23
+skip$ -- 0
 stack$ -- 0
-substring$ -- 30
-swap$ -- 6
-text.length$ -- 1
+substring$ -- 0
+swap$ -- 0
+text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 13
+type$ -- 0
 warning$ -- 0
-while$ -- 7
-width$ -- 5
-write$ -- 50
+while$ -- 0
+width$ -- 0
+write$ -- 3
+(There were 37 error messages)
