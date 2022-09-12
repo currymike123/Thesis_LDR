@@ -1,13 +1,22 @@
-This is BibTeX, Version 0.99d (TeX Live 2022)
+This is BibTeX, Version 0.99d
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: main.aux
+Reallocating 'name_of_file' (item size: 1) to 10 items.
 A level-1 auxiliary file: cover.aux
+Reallocating 'name_of_file' (item size: 1) to 13 items.
 A level-1 auxiliary file: contents.aux
+Reallocating 'name_of_file' (item size: 1) to 10 items.
 A level-1 auxiliary file: chap1.aux
+Reallocating 'name_of_file' (item size: 1) to 10 items.
 A level-1 auxiliary file: chap2.aux
+Reallocating 'name_of_file' (item size: 1) to 9 items.
 A level-1 auxiliary file: appa.aux
+Reallocating 'name_of_file' (item size: 1) to 9 items.
 A level-1 auxiliary file: appb.aux
+Reallocating 'name_of_file' (item size: 1) to 11 items.
 A level-1 auxiliary file: biblio.aux
+Reallocating 'name_of_file' (item size: 1) to 5 items.
+Reallocating 'name_of_file' (item size: 1) to 6 items.
 The style file: plain.bst
 I found no \citation commands---while reading file main.aux
 Database file #1: main.bib
