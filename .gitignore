@@ -1,5 +1,7 @@
 # Ignore Imagnette
 Research/imagnette/
+/home/mike/Desktop/Thesis_LDR/Research/imagenette
+Research/imagenette
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
