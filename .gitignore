@@ -3,6 +3,9 @@ Research/imagnette/
 /home/mike/Desktop/Thesis_LDR/Research/imagenette
 Research/imagenette
 
+# Ignore Tiny_imagenet
+Research/tiny_imagenet
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
