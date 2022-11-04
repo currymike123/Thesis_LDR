@@ -1,0 +1,25 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces A single neuron.\relax }}{13}{}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces A simple 3-layer Neural Network}}{15}{}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Gradient descent}}{20}{}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Backpropagation on a single neuron}}{23}{}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Convolution performed on a single channel}}{26}{}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Max pooling}}{29}{}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces CNN architecture}}{30}{}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces HDFS architecture}}{33}{}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Word count using MapReduce}}{35}{}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Parallel CNN.\relax }}{40}{}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Training loss without Dropout.\relax }}{47}{}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Train and validation Accuracy without Dropout.\relax }}{47}{}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Training loss with Dropout.\relax }}{47}{}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Train and validation Accuracy with Dropout.\relax }}{48}{}%
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Training accuracy Comparison with and without Dropout.\relax }}{48}{}%
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Validation accuracy Comparison with and without Dropout.\relax }}{48}{}%
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Parallel CNN speedup.\relax }}{48}{}%
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Parallel CNN scaleup.\relax }}{49}{}%
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Parallel CNN sizeup.\relax }}{50}{}%
+\addvspace {10\p@ }
